@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.CrudRest.demo.model.Student;
 import com.CrudRest.demo.services.StudentService;
-
+// this is student controller
 @RestController
 @RequestMapping("/student")
 public class StudentController {
